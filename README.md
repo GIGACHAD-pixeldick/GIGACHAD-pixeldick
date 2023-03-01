@@ -1,18 +1,13 @@
-### Hi there 👋
+# 🦷GIGACHAD-pixeldick🦷
 
+![hacker-lj7znezbwb0nuba4](https://user-images.githubusercontent.com/115863181/222114566-e64b3712-76f8-4474-9010-8f32cb608971.gif)
 
-[znk](https://user-images.githubusercontent.com/115863181/222107324-fb96ec7c-0821-4989-9327-295fd61640a4.gif)
+### 👨‍💻 Languages I Use
 
-**GIGACHAD-pixeldick/GIGACHAD-pixeldick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
