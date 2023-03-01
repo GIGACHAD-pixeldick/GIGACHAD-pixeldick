@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+
+[znk](https://user-images.githubusercontent.com/115863181/222107324-fb96ec7c-0821-4989-9327-295fd61640a4.gif)
+
 **GIGACHAD-pixeldick/GIGACHAD-pixeldick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
