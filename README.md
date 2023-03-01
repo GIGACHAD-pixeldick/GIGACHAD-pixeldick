@@ -13,5 +13,5 @@
 
 
 # 📊 Stats
-![GIGACHAD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIGACHAD-pixeldick&show_icons=true&theme=gruvbox)
+![GIGACHAD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIGACHAD-pixeldick&show_icons=true&theme=midnight-purple)
 
