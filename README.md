@@ -1,8 +1,9 @@
 # 🦷GIGACHAD-pixeldick🦷
 
-![hacker-lj7znezbwb0nuba4](https://user-images.githubusercontent.com/115863181/222114566-e64b3712-76f8-4474-9010-8f32cb608971.gif)
+![1dc2e92177c43cac5bd2f59de5381a15_w200](https://user-images.githubusercontent.com/115863181/222124901-5192d740-ff13-4694-ac25-5190a6e9ce64.gif)
 
-### 👨‍💻 Languages I Use
+
+# 👨‍💻 Languages I Use
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
@@ -10,4 +11,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <br />
 
-#
+
+# 📊 Stats
+![GIGACHAD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIGACHAD-pixeldick&show_icons=true&theme=gruvbox)
+
