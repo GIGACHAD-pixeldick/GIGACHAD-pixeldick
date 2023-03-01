@@ -1,4 +1,4 @@
-# 🎨🧩💸 GIGACHAD-pixeldick
+# 🎨🧩💸 GIGACHAD-pixeldick 💸🧩🎨
 
 **`Junior Mobile Application Developer,`<br>
 `Junior Python developer,`<br>
