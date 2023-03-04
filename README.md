@@ -6,8 +6,8 @@
 
 ![1dc2e92177c43cac5bd2f59de5381a15_w200](https://user-images.githubusercontent.com/115863181/222124901-5192d740-ff13-4694-ac25-5190a6e9ce64.gif)
 
- <p align="left">
- <h3>Contact with me!</h3>
+ <p align="center">
+ Contact with me!<br>
       <a href="https://t.me/punk_rock_freedom">
          <img alt="telegram" title="Contact with me!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=0082BE&label=TELEGRAM&logo=2504941-min&style=for-the-badge&labelColor=0082BE"/></a> 
    </p>
