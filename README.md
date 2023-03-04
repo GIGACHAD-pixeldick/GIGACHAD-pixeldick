@@ -7,11 +7,10 @@
 ![1dc2e92177c43cac5bd2f59de5381a15_w200](https://user-images.githubusercontent.com/115863181/222124901-5192d740-ff13-4694-ac25-5190a6e9ce64.gif)
 
  <p align="center">
+ <h3><center>Contact with me!</h3></center>
       <a href="https://t.me/punk_rock_freedom">
          <img alt="telegram" title="Contact with me!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=TELEGRAM&logo=2504941-min&logoColor=white&style=for-the-badge&labelColor=1E90FF"/></a> 
-  <img alt="telegram" title="Contact with me!" src="https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=2504941-min&logo&logoColor=1E90FF"/></a>
       <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    </p>
    
 ---
