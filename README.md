@@ -9,8 +9,7 @@
  <p align="center">
  <h3><center>Contact with me!</h3></center>
       <a href="https://t.me/punk_rock_freedom">
-         <img alt="telegram" title="Contact with me!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=TELEGRAM&logo=2504941-min&logoColor=white&style=for-the-badge&labelColor=1E90FF"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+         <img alt="telegram" title="Contact with me!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=0082BE&label=TELEGRAM&logo=2504941-min&style=for-the-badge&labelColor=0082BE"/></a> 
    </p>
    
 ---
