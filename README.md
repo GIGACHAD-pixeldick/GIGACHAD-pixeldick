@@ -21,11 +21,3 @@
 
 # 📊 Stats
 ![GIGACHAD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIGACHAD-pixeldick&show_icons=true&theme=midnight-purple)
-
----
-
-<h1 align="center">Contact with me!<font-size="30px"><br>
-   <p align="center">
-      <a href="https://t.me/punk_rock_freedom">
-         <img width="200px" align="center" alt="telegram" title="Contact with me!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=0082BE&label=TELEGRAM&logo=2504941-min&style=for-the-badge&labelColor=0082BE"/></a> 
-   </p>
